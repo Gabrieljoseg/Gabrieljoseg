@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Sistemas para Internet na UNICAP<br>CTO na startup CubeCar<br>Pesquisador de Cantigas Medievais<br>22 anos<br>Recife, Pernambuco
+Estudante de Sistemas para Internet na UNICAP<br>22 anos<br>Recife, Pernambuco
 
 
 ## 🌐 Socials:
