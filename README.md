@@ -1,5 +1,22 @@
 # 💫 About Me:
-Estudante de Sistemas para Internet na UNICAP<br>22 anos<br>Recife, Pernambuco
+Olá! Eu sou Gabriel José, tenho 22 anos, estudante na Universidade Católica de Pernambuco e  possuo conhecimentos em:
+- Python(Pandas, Request, Numpy, Faker, Plotly) 
+- SQL, 
+- Docker(Docker Compose, Docker Build, Dockerfile, registro de images usando docker hub como registry), 
+- Hadoop Ecosystem, 
+- Apache Spark(Pyspark e Scala),
+-  Redis, 
+- Apache Airflow, 
+- Airbyte, 
+- Databricks,
+- Google Cloud (BigQuery, Cloud Storage, Compute Engine, Dataflow, Apache Beam, Looker Studio) 
+- PowerBI. 
+
+Na área de Analitycs Engineer, tive oportunidade de aprender a construir pipeline de dados para ETL, ferramenta de conexão, gerenciamento de containers e dashboard em PowerBI. Isso tudo no meu último projeto de extensão tecnológica que participei com a SIDI.
+
+Tenho habilidade em trabalhar em equipe, colaborando com diferentes áreas para entender e atender suas necessidades, além de capacidade de resolução de problemas de forma ágil e efetiva.
+
+Caso tenha interesse em conhecer mais sobre minhas habilidades e experiências, sinta-se à vontade para entrar em contato. Estou ansioso para colaborar com novos projetos!
 
 
 ## 🌐 Socials:
